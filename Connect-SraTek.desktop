@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Connect to SraTek
+Exec=/home/$USER/connect-sratek.sh
+Icon=network-wireless
+Terminal=true
+Categories=Network;Utility;
